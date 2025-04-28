@@ -158,8 +158,11 @@ Now that everything is set-up, you can run the server.
 
 ## Team Members
 
-* [Rahul Sabinkar](https://github.com/RahulSabinkar)
-* [Sai Manikanta Teja](https://github.com/SaiManikantaTeja)
+Gaurish Kumar
+Madhavan S
+Keerthivasan
+Shebin 
+Sakthidhara
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
